@@ -1,4 +1,4 @@
-# IoT Monetizer App
+# my IoT Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
